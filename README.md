@@ -1,1 +1,2 @@
-# coding_test
+## :pushpin: coding_test  23.07.05 ~ ing
+프로그래머스 레밸 0 ~ 2 까지 모든 문제를 풀어 commit할 예정입니다 <br>
